@@ -43,8 +43,8 @@
 </head>
 <body>
   <header>
-    <h1>My Art Gallery</h1>
-    <p>Welcome to my collection of paintings!</p>
+    <h1>Anémone Reinhardt</h1>
+    <p>Artiste peintre</p>
   </header>
   <div class="gallery">
     <div class="painting">
@@ -61,5 +61,36 @@
     </div>
     <!-- Add more paintings as needed -->
   </div>
+
+<footer>
+  <div class="contact">
+    <p>Contactez-moi</p>
+    <p>Email: <a href="mailto:your-email@example.com">your-email@example.com</a></p>
+    <p>Téléhone: <a href="tel:+1234567890">+123 456 7890</a></p>
+    </p>
+  </div>
+</footer>
+
+<!-- CSS for the Footer -->
+<style>
+  footer {
+    background-color: #333;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  footer a {
+    color: #4a90e2;
+    text-decoration: none;
+  }
+  footer a:hover {
+    text-decoration: underline;
+  }
+  .contact p {
+    margin: 5px 0;
+  }
+</style>
+  
 </body>
 </html>
