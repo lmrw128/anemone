@@ -48,7 +48,7 @@
   </header>
   <div class="gallery">
     <div class="painting">
-      <img src="artsy/painting1.png.png" alt="Painting 1">
+      <img src="IMG-20241202-WA0001.jpg" alt="Painting 1">
       <h3>Title of Painting 1</h3>
     </div>
     <div class="painting">
