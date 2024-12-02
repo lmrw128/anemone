@@ -67,7 +67,7 @@
     <p>Contactez-moi</p>
     <p>Email: <a href="mailto:your-email@example.com">your-email@example.com</a></p>
     <p>Téléhone: <a href="tel:+1234567890">+123 456 7890</a></p>
-    </p>
+  
   </div>
 </footer>
 
