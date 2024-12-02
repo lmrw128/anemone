@@ -49,15 +49,15 @@
   <div class="gallery">
     <div class="painting">
       <img src="IMG-20241202-WA0001.jpg" alt="Painting 1">
-      <h3>Title of Painting 1</h3>
+      <h3>"Fleurs", 2023, Huile sur toile</h3>
     </div>
     <div class="painting">
       <img src="IMG-20241202-WA0002.jpg" alt="Painting 2">
-      <h3>Title of Painting 2</h3>
+      <h3>"Fleurs", 2024, Huile sur toile</h3>
     </div>
     <div class="painting">
-      <img src="artsy/painting3.jpg" alt="Painting 3">
-      <h3>Title of Painting 3</h3>
+      <img src="IMG-20241202-WA0003.jpg" alt="Painting 3">
+      <h3>"Paysage", 2024, Huile sur toile</h3>
     </div>
     <!-- Add more paintings as needed -->
   </div>
