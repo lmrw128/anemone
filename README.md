@@ -52,7 +52,7 @@
       <h3>Title of Painting 1</h3>
     </div>
     <div class="painting">
-      <img src="artsy/painting2.png" alt="Painting 2">
+      <img src="IMG-20241202-WA0002.jpg" alt="Painting 2">
       <h3>Title of Painting 2</h3>
     </div>
     <div class="painting">
